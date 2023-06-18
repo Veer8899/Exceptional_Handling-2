@@ -1,0 +1,14 @@
+INFO:root:Error: zero division error division by zero 
+INFO:root:Error: zero division error division by zero 
+INFO:root:Error: overflow  error math range error 
+INFO:root:Error: overflow  error math range error 
+INFO:root:Error: overflow  error math range error 
+INFO:root:Error: overflow  error math range error 
+INFO:root:this is an import error No module named 'ram' 
+INFO:root:this is an import error No module named 'ram' 
+INFO:root:this is key error 'd' 
+INFO:root:this is index error list index out of range 
+INFO:root:this is attribute error 'str' object has no attribute 'test' 
+INFO:root:this is Type error unsupported operand type(s) for +: 'int' and 'str' 
+INFO:root:this is file not found error [Errno 2] No such file or directory: 'test8.txt' 
+INFO:root:this is value and type error invalid literal for int() with base 10: 'ram' 

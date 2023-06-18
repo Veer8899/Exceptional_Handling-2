@@ -1,0 +1,4 @@
+INFO:root:Error: overflow  error math range error 
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: cbb5af4e-a15b-49cf-8b79-804163926d83
+INFO:root:this is index error list index out of range 
